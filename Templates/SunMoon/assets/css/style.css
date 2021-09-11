@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 :root {
     --font: 'Karla', 'Karla', sans-serif;
+    --accentColor: #03163C;
 }
 
 body {
@@ -48,7 +49,7 @@ body {
     font-size: 1rem;
     font-weight: bold;
     transition: all .25s cubic-bezier(.08, .59, .29, .99);
-    border: solid var(--accentColor: #03163C) 2px;
+    border: solid var(--accentColor) 2px;
 }
 
 .link:hover {

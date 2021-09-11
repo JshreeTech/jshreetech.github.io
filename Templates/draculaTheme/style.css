@@ -27,14 +27,14 @@ footer{
 }
 
 #userPhoto{
-    width: 96px;
-    height: 96px;
+    width: 200px;
+    height: 200px;
 
     display: block;
 
-    margin: 35px auto 20px;
+    margin: 200px auto 200px;
 
-    border-radius: 50%;
+    border-radius: 0%;
     border: solid var(--purple) 2px;
 }
 

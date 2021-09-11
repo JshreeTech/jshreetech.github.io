@@ -10,11 +10,11 @@ body {
 }
 
 #userPhoto {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 50px;
     display: block;
-    margin: 35px auto 20px;
-    border-radius: 50%;
+    margin: 100px auto 25px;
+    border-radius: 25%;
 }
 
 #userName {
@@ -30,7 +30,7 @@ body {
 }
 
 #links {
-    max-width: 675px;
+    max-width: 500px;
     width: auto;
     display: block;
     margin: 27px auto;

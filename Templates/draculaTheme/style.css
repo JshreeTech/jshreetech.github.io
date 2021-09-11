@@ -32,10 +32,9 @@ footer{
 
     display: block;
 
-    margin: 100px auto 100px;
+    margin: 200px auto 200px;
 
-    border-radius: 15%;
-    border: solid var(--purple) 2px;
+    border-radius: 50%;
 }
 
 #userName{

@@ -14,7 +14,7 @@ body {
     width: 270px;
     height: 75px;
     display: block;
-    margin: 100px auto 35px;
+    margin: 75px auto 35px;
     border-radius: 25%;
 }
 
@@ -39,7 +39,7 @@ body {
 
 .link {
     display: block;
-    background-color: rgb(66, 110, 255);
+    background-color: rgb(3, 22, 60);
     color: #fff;
     font-family: var(--font);
     text-align: center;

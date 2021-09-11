@@ -32,9 +32,9 @@ footer{
 
     display: block;
 
-    margin: 200px auto 200px;
+    margin: 35px auto 20px;
 
-    border-radius: 0%;
+    border-radius: 100%;
     border: solid var(--purple) 2px;
 }
 
